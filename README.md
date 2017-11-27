@@ -10,3 +10,5 @@ El software utilitzat ha estat:
 * Per CSS i HTML Visual Studio 2017.
 
 Alguns errors que representa el projecte son a causa d'un error amb la interpretació que fa google chrome. Aixó pot causar bandes blances al pasar de escriptori a mòbil. La solució és triar el preset d'un mòbil, reiniciar la pàgina i tornar a posar visualització mòbil.
+
+Rawgit: https://rawgit.com/billy1816/Lunar-Lander-MB/Lunar-Lander-Minify/index.html
