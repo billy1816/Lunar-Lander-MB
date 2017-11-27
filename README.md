@@ -1,4 +1,4 @@
-# Lunar-Landing-Final
+# Lunar-Lander
 Projecte Lunar Lander (HTML, CSS)
 El projecte ha esta basat en el Plec de condicions fet per el meu client. El treball es basa en fer un correcte HTML i CSS del joc Lunar Lander. Ha de ser resposive, funcional en diferents resolucions, amb el codi validad correctament i amb dues versions, indend i minify.
 Les imatges estan al directori img, el css al directori css. El repositori està compost de dues "branch" o branques, una indentada i una minificada.
